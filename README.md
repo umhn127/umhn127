@@ -8,6 +8,7 @@ Ben bir Frontend React Geliştiricisiyim ve JavaScript öğrenmeye devam ediyoru
 - JavaScript
 - HTML
 - CSS
+  
 Eğer bir proje üzerinde çalışıyorsanız veya grup çalışmalarına katılmak istiyorsanız, benimle iletişime geçmekten çekinmeyin! Her türlü işbirliğine ve yeni öğrenmeye her zaman açığım.Zaman ayırdığınız için teşekkür ederim. Daha fazla bilgi için lütfen benimle iletişime geçin!
 - th3uma@gmail.com
 
