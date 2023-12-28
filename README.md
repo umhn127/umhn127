@@ -1,4 +1,4 @@
-# Merhaba, Ben [Umahan Şahin]
+## Merhaba, Ben [Umahan Şahin]
 
 ## Hakkımda
 Ben bir Frontend React Geliştiricisiyim ve JavaScript öğrenmeye devam ediyorum. Kod yazmayı, yeni teknolojileri keşfetmeyi ve grup çalışmalarında yer almayı seviyorum.
@@ -8,13 +8,6 @@ Ben bir Frontend React Geliştiricisiyim ve JavaScript öğrenmeye devam ediyoru
 - JavaScript
 - HTML
 - CSS
-- [Diğer kullanmayı bildikleriniz...]
+Eğer bir proje üzerinde çalışıyorsanız veya grup çalışmalarına katılmak istiyorsanız, benimle iletişime geçmekten çekinmeyin! Her türlü işbirliğine ve yeni öğrenmeye her zaman açığım.Zaman ayırdığınız için teşekkür ederim. Daha fazla bilgi için lütfen benimle iletişime geçin!
+- th3uma@gmail.com
 
-## Katılmak İçin İlgiliyim
-Eğer bir proje üzerinde çalışıyorsanız veya grup çalışmalarına katılmak istiyorsanız, benimle iletişime geçmekten çekinmeyin! Her türlü işbirliğine ve yeni öğrenmeye her zaman açığım.
-
-## Teşekkürler
-Zaman ayırdığınız için teşekkür ederim. Daha fazla bilgi için lütfen benimle iletişime geçin!
-
-## İletişim
-- [E-posta](Th3uma@gmail.com)
